@@ -35,3 +35,9 @@ For the administrative side, we leveraged React.js for the web frontend, providi
 - User-Side Mobile App:
   - Framework: Flutter
   - Languages: Dart
+- Backend:
+  - Framework: Node.js
+
+- Admin Web Frontend:
+  - Framework: React.js
+  - Languages: JavaScript, HTML, CSS
